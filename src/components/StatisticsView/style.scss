@@ -1,0 +1,16 @@
+.statisticsContainer {
+  display: flex;
+  align-self: flex-end;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.statisticsItem {
+  background-color: whitesmoke;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 4px;
+  text-align: center;
+  font-weight: bold;
+}
